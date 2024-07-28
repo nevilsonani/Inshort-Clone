@@ -10,6 +10,7 @@ Bookmarking Articles: Save articles for later reading.
 User Profiles: Manage user information and preferences.
 ### Technologies Used
 MongoDB: Database for storing user and news data.
+
 Express.js: Backend framework for handling API requests.
 React: Frontend library for building the user interface.
 Node.js: Server environment for running the backend.
