@@ -20,10 +20,4 @@ React: Frontend library for building the user interface.
 Node.js: Server environment for running the backend.
 
 
-### Installation
-
-1.Clone the repository:
-
-[[Link Text|git clone https://github.com/nevilsonani/Inshorts-Clone.git]]
-git clone https://github.com/yourusername/inshorts-clone.git
 
