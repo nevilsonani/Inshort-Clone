@@ -12,5 +12,7 @@ User Profiles: Manage user information and preferences.
 MongoDB: Database for storing user and news data.
 
 Express.js: Backend framework for handling API requests.
+
 React: Frontend library for building the user interface.
+
 Node.js: Server environment for running the backend.
